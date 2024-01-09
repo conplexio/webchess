@@ -1,0 +1,13 @@
+
+
+# .gitignore file
+# Do not commit your personal .gitignore file!
+.gitignore
+
+# .beam files
+**/*.beam
+
+# autosave files
+**/*~
+
+
