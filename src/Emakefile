@@ -1,0 +1,8 @@
+
+[
+	webchess_app,
+	webchess_sup,
+	test_sup,
+	test_child
+].
+
